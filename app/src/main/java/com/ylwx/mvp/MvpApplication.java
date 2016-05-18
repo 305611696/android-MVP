@@ -9,5 +9,5 @@ public class MvpApplication extends Application {
 		// TODO Auto-generated method stub
 		super.onCreate();
 	}
-	
+
 }

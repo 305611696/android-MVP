@@ -29,8 +29,8 @@ public class LoginActivity extends BaseActivity implements ILoginView{
         
         et_username.setText("admin");
         et_username.setSelection(et_username.getText().length());
-        
-    }
+
+	}
 
     public void viewLongClick(View v){
     	System.out.println("viewLongClick："+v.getId());
