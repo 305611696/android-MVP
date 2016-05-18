@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	 >
+
+    <EditText android:id="@+id/et_username"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+    
+    <Button android:id="@+id/btn_test"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_username"
+        android:background="@drawable/ripple_bg"
+        android:text="TEST"
+        />
+
+</RelativeLayout>

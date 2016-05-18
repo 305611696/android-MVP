@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 标题栏背景颜色 -->
+    <color name="titlebar_bg">#f0f3fa</color>
+    <!-- 基础文字颜色 -->
+    <color name="font_color">#5B5B5B</color>
+</resources>

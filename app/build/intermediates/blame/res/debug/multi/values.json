@@ -1,0 +1,182 @@
+[
+    {
+        "outputFile": "G:\\wtt\\workspace\\android-studio\\Android-MVP\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "G:\\wtt\\workspace\\android-studio\\Android-MVP\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 44,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 45,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "G:\\wtt\\workspace\\android-studio\\Android-MVP\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 79,
+                        "endColumn": 45,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 305,
+                    "endColumn": 57,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "G:\\wtt\\workspace\\android-studio\\Android-MVP\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 55,
+                    "endOffset": 414
+                },
+                "from": {
+                    "file": "G:\\wtt\\workspace\\android-studio\\Android-MVP\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 419,
+                    "endColumn": 52,
+                    "endOffset": 467
+                },
+                "from": {
+                    "file": "G:\\wtt\\workspace\\android-studio\\Android-MVP\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 52,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 472,
+                    "endColumn": 48,
+                    "endOffset": 516
+                },
+                "from": {
+                    "file": "G:\\wtt\\workspace\\android-studio\\Android-MVP\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 48,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 521,
+                    "endColumn": 52,
+                    "endOffset": 569
+                },
+                "from": {
+                    "file": "G:\\wtt\\workspace\\android-studio\\Android-MVP\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 52,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 574,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 860
+                },
+                "from": {
+                    "file": "G:\\wtt\\workspace\\android-studio\\Android-MVP\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 250,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 865,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1098
+                },
+                "from": {
+                    "file": "G:\\wtt\\workspace\\android-studio\\Android-MVP\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 581,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 818
+                    }
+                }
+            }
+        ]
+    }
+]

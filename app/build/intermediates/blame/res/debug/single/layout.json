@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\wtt\\workspace\\android-studio\\Android-MVP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "G:\\wtt\\workspace\\android-studio\\Android-MVP\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "G:\\wtt\\workspace\\android-studio\\Android-MVP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_brows.xml",
+        "source": "G:\\wtt\\workspace\\android-studio\\Android-MVP\\app\\src\\main\\res\\layout\\activity_brows.xml"
+    },
+    {
+        "merged": "G:\\wtt\\workspace\\android-studio\\Android-MVP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_titlebar.xml",
+        "source": "G:\\wtt\\workspace\\android-studio\\Android-MVP\\app\\src\\main\\res\\layout\\view_titlebar.xml"
+    },
+    {
+        "merged": "G:\\wtt\\workspace\\android-studio\\Android-MVP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "G:\\wtt\\workspace\\android-studio\\Android-MVP\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    }
+]
